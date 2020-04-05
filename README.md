@@ -1,4 +1,4 @@
-# React COVID Monitorin - "Ratchet"
+# React COVID Map - "Ratchet"
 
 <img src="https://tfwiki.net/mediawiki/images2/thumb/7/7e/Ratchetg1.jpg/300px-Ratchetg1.jpg" width="120">
 
