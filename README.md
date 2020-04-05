@@ -1,6 +1,6 @@
 # React COVID Monitoring Map - "Ratchet"
 
-<img src="https://tfwiki.net/mediawiki/images2/thumb/6/67/SDCCBlasterBoxArt.jpg/300px-SDCCBlasterBoxArt.jpg" width="120">
+<img src="https://tfwiki.net/mediawiki/images2/thumb/7/7e/Ratchetg1.jpg/300px-Ratchetg1.jpg" width="120">
 
 **I'm a big "Old School" Transformer's Fan**. So probably at this point you may wondered...
 
