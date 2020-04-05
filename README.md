@@ -15,8 +15,11 @@
 ```
 - git clone git@github.com:DouglasPonce85/react-covid-ratchet.git
 - cd react-covid-ratchet
+- npm i
 - yarn develop
 - If your browser does not automatically open, visit http://localhost:8000
 ```
 
 ## Previews
+![COVID-19](https://i.ibb.co/RTJn8GT/covid-1.png)
+![COVID-19](https://i.ibb.co/fDjvqfH/covid-2.png)
