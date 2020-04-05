@@ -1,21 +1,14 @@
 import React from 'react';
-import { Link } from 'gatsby';
 
 import Container from 'components/Container';
 
 const Header = () => {
   return (
     <header>
+      <img src="https://brands.home-assistant.io/coronavirus/logo.png" alt="covid" />
       <Container type="content">
-        <p>My Gatsby Site</p>
-        <ul>
-          <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <Link to="/page-2/">Page 2</Link>
-          </li>
-        </ul>
+        <h1>Coronavirus (COVID-19) | Monitoring App</h1>
+        <h4>Developed by DouglasPonce85</h4>
       </Container>
     </header>
   );

@@ -1,15 +1,25 @@
 footer {
-
   width: 100%;
-  height: 2em;
   line-height: 2em;
   color: $white;
   text-align: center;
-  background-color: $blue-grey-700;
+  background-color: #151e23;
 
   p {
     font-size: 1em;
     margin: 0;
   }
 
+  .footer-links {
+    text-decoration: none !important;
+    padding: 20px;
+    font-size: 20px;
+
+    & a {
+      color: $blue-grey-100;
+      margin: 20px;
+      text-decoration-line: none !important;
+      color: #ff9898 !important;
+    }
+  }
 }
