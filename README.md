@@ -1,44 +1,22 @@
-# 🍃 Gatsby Leaflet Starter
+# React COVID Monitoring Map - "Ratchet"
 
-Jumpstart your next Gatsby mapping project with Leaflet!
+<img src="https://tfwiki.net/mediawiki/images2/thumb/6/67/SDCCBlasterBoxArt.jpg/300px-SDCCBlasterBoxArt.jpg" width="120">
 
-## What This Includes
-* [Yarn](https://yarnpkg.com/en/)
-* [Gatsby](https://www.gatsbyjs.org/)
-* [Sass](https://sass-lang.com)
-* [React Helmet](https://github.com/nfl/react-helmet)
-* [Resolve Src](https://github.com/alampros/gatsby-plugin-resolve-src)
-* [Leaflet](https://leafletjs.com/)
-* [React Leaflet](https://react-leaflet.js.org)
+**I'm a big "Old School" Transformer's Fan**. So probably at this point you may wondered...
 
-# Getting Started
+| QUESTION | DESCRIPTION |
+| ------ | ----------- |
+| Why named it Ratchet?   | So here it goes as interesting for this character. Ratchet is an Autobot from the Generation 1 continuity family. All aboard the party ambulance! Ratchet is the Autobots' Chief Medical Officer. If something's broke, he can fix it. Ratchet is known for his irreverent bedside manner; he loves having a good time, and his party-loving nature has given him a dry wit. |
 
-## Requirements
-* [Gatsby CLI](https://www.npmjs.com/package/gatsby-cli)
-* [Yarn](https://yarnpkg.com/en/)
-
-## Quick Start
-Run the following in your favorite terminal:
+## Features
+- Gatsby Leaflet Starter(https://github.com/colbyfayock/gatsby-starter-leaflet)
+  
+## Installation
 ```
-gatsby new [directory] https://github.com/colbyfayock/gatsby-starter-leaflet
+- git clone git@github.com:DouglasPonce85/react-covid-ratchet.git
+- cd react-covid-ratchet
+- yarn develop
+- If your browser does not automatically open, visit http://localhost:8000
 ```
 
-## Starting from Scratch
-* Set up Yarn: https://yarnpkg.com/lang/en/docs/install/#mac-stable)[https://yarnpkg.com/lang/en/docs/install/
-* Install the Gatsby CLI globally:
-```
-yarn global add gatsby-cli
-```
-* Inside the directory of your choice, scaffold a new Gatsby site:
-```
-gatsby new [directory] https://github.com/colbyfayock/gatsby-starter-leaflet
-```
-For example, if I want my installation in `~/Code/new-gatsby-site`, I would navigate to `~/Code` and run:
-```
-gatsby new new-gatsby-site https://github.com/colbyfayock/gatsby-starter-leaflet
-```
-* Navigate to your new directory and run:
-```
-yarn develop
-```
-* You should now be running a new Gatsby site locally! 🎉
+## Previews
